@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.himanshu.DaoImpl;
+
+/**
+ * @author Himanshu Tiwari
+ *
+ */
+public class ParkingDataDaoImpl {
+
+}

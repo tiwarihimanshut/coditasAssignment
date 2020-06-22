@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.himanshu.serviceInterface;
+
+/**
+ * @author Himanshu Tiwari
+ *
+ */
+public interface ParkingService {
+
+}

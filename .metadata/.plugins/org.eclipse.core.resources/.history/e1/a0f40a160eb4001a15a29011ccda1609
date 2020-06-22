@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.himanshu.daoInterface;
+
+/**
+ * @author Himanshu Tiwari
+ *
+ */
+public interface ParkingDao {
+
+}
